@@ -15,7 +15,7 @@ loginBtn.addEventListener("click", function () {
 
 contactForm.addEventListener("submit", function (event) {
     event.preventDefault();
-
+giwjgw
     const name = document.getElementById("name").value;
 
     formMessage.textContent =
