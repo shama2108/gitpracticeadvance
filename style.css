@@ -104,3 +104,21 @@ footer {
     margin-top: 15px;
     font-weight: bold;
 }
+
+.dark-mode {
+    background: #121212;
+    color: white;
+}
+
+.dark-mode .hero,
+.dark-mode .about,
+.dark-mode .contact {
+    background: #1e1e1e;
+    color: white;
+}
+
+.dark-mode input,
+.dark-mode textarea {
+    background: #333;
+    color: white;
+}
